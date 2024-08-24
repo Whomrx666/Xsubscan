@@ -1,0 +1,3 @@
+pyfiglet
+urllib3
+requests
